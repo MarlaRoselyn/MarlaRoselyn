@@ -1,4 +1,4 @@
-### Marla Jade Roselyn
+### Marla Roselyn
 
 Product-minded engineer focused on **agent harnesses** and **agentic systems** — how models plan, use tools, remember, and ship real work.
 
@@ -12,4 +12,4 @@ I care about tasteful product surfaces as much as the runtime underneath: clean 
 Agent runtimes & harness design · tool-calling & computer use · applied cryptography
 
 #### Links
-[@modelflare-ai](https://github.com/modelflare-ai) · [modelflare.dev](https://modelflare.dev)
+[@modelflare-ai](https://github.com/modelflare-ai) · [modelflare.dev](https://modelflare.dev) · marlajade@proton.me
